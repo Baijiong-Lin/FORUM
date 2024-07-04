@@ -271,7 +271,6 @@ class Trainer(nn.Module):
             return self.batch_weight
 
     def forward4loss(self, model, inputs, gts, return_preds=False):
-        # use in train_FOMOBO
         if not self.multi_input:
             preds = model(inputs)
             preds = self.process_preds(preds)
