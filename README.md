@@ -4,7 +4,7 @@
 
 
 
-## Highlights:
+## Highlights
 
 1. FORUM: a more effective and efficient solution for multi-objective bi-level optimization problems;
 
