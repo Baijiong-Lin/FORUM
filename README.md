@@ -8,7 +8,7 @@
 
 1. FORUM: a more effective and efficient solution for multi-objective bi-level optimization problems;
 
-2. A more efficient implementation for [MOML](https://github.com/Baijiong-Lin/MOML) (but it is only applicable to multi-task learning). 
+2. A more efficient implementation for [MOML](https://github.com/Baijiong-Lin/MOML) (*Hint: it is only applicable to multi-task learning with lower-level update iteration T=1*). 
    
    
 
